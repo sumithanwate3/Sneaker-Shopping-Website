@@ -1,4 +1,4 @@
-# React_Sneaker_website Website
+# Dynamic React_Sneaker_website Website
 
  React_Sneaker_website made with React.js Framework.
 
